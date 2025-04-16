@@ -59,5 +59,5 @@ The dataset used in this project is sourced from Kaggle. It contains detailed in
 
 ## Author
 
-This project was created by [Uzair Hussain]. For any questions or feedback, feel free to reach out via [https://linkedin.com/in/uzairhussain1/].
+This project was created by [Uzair Hussain]. For any questions or feedback, feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairhussain1/).
 
